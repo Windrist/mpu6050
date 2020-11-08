@@ -24,7 +24,7 @@ The launchfile demo.launch is included to start the node and display some imu va
 
 #### Published Topics
 
-* **`imu/home/windrist/Workspace/Fuso_ws/src/chu_bot_source/chubot/data`** ([sensor_msgs::Imu])
+* **`imu/data`** ([sensor_msgs::Imu])
 
 	The measured accelerometer, gyro and orientation values.
 
